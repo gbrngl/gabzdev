@@ -9,7 +9,7 @@
 ### Sobre mim
 
 - 👨‍🎓 Estudante de Sistemas de Informação.
-- 🎯 Interesse em: JavaScript, CSS, HTML, Node, Express...
+- 🎯 Interesse em: JavaScript, CSS, HTML, Node, Express.
 - 🤓 Atualmente estou estudando para ser um futuro desenvolvedor fullstack.
 
 ## Skills 👾
