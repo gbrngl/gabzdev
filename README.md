@@ -26,7 +26,7 @@
 
 ## Contact :iphone:
 <p align="center"><br>
-  <a href="https://instagram.com/gxbvzao" target="_blank">
+  <a href="https://instagram.com/gxbzao" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
