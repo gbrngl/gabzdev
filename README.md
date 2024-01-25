@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://github.com/gabzdev">
-  <img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabzdev&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
 ## Olá, eu sou o Gabriel!
 
 ### Sobre mim
