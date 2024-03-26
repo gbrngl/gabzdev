@@ -3,8 +3,8 @@
 ### Sobre mim
 
 - 👨‍🎓 Formado de Sistemas de Informação.
-- 🎯 Interesse em: JavaScript, CSS, HTML, Node, Express.
-- 🤓 Possuo o objetivo de ser um futuro desenvolvedor fullstack.
+- 🎯 Interesse em: JavaScript, Python.
+- 🤓 Entusiasta da programação.
 
 ## Skills 👾
 <p align="center"><br>
