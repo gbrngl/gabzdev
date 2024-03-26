@@ -4,7 +4,7 @@
 
 - 👨‍🎓 Formado de Sistemas de Informação.
 - 🎯 Interesse em: JavaScript, Python.
-- 🤓 Foco em Infraestrutura de TI porém um entusiasta da programação.
+- 🤓 Foco em Infraestrutura de TI, porém um entusiasta da programação.
 
 ## Skills 👾
 <p align="center"><br>
