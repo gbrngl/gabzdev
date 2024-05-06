@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-- 👨‍🎓 Formado de Sistemas de Informação.
+- 👨‍🎓 Formado em Sistemas de Informação.
 - 🎯 Interesse em: JavaScript, Python.
 - 🤓 Foco em Infraestrutura de TI, porém um entusiasta da programação.
 
